@@ -1,2 +1,2 @@
-# GitTest
+# TestGit
 My first project.
